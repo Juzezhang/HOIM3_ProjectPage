@@ -1,9 +1,9 @@
-# NeuralDome project page
+# HOI-M3 project page
 
 [Project page](https://juzezhang.github.io/HOIM3_ProjectPage/) for [CVPR 2024] HOI-M3: Capture Multiple Humans and Objects Interaction within Contextual
 Environment
 
-[paper](https://arxiv.org/pdf/2212.07626.pdf)
+[paper](https://arxiv.org/pdf/2404.00299.pdf)
 
 <!-- # Cayman theme
 
